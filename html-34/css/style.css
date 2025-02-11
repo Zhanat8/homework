@@ -1,0 +1,32 @@
+.text1 {
+    font-family: "Open-sans", sans-serif;
+    font-size: 20px;
+    line-height: 30x;
+    text-align: justify;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.text2 {
+    font-family: "Open-sans", serif;
+    text-decoration: line-through;
+}
+
+.text3 {
+    font-family: "Open-sans", serif;
+    text-align: center;
+    text-transform: uppercase; 
+}
+
+.text4 {
+    font-family: "Open-sans", serif;
+    word-spacing: 30px;
+    text-decoration: overline wavy;
+    text-shadow: 2px 2px 5px #ff0000;
+}
+
+.text5 {
+    font-family: serif;
+    letter-spacing: 5px;
+    text-decoration: underline double;
+}
