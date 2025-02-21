@@ -1,0 +1,20 @@
+.block-quad {
+    position: fixed;
+    right: 50px;
+    bottom: 100px;
+    left: 50%;
+    background: #eeb9b9;
+    min-width: 200px;
+    min-height: 100px;
+    height: 100px;
+}
+
+.block-circle {
+    position: fixed;
+    bottom: 150px;
+    left: 55%;
+    background: #960101;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
